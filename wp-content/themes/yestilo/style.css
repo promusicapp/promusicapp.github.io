@@ -1,5 +1,5 @@
 /*
-Theme Name: Promusicapps.com
+Theme Name: musictool.com
 
 
 */
@@ -10,7 +10,7 @@ Theme Name: Promusicapps.com
 body {
 	margin:0 auto;
 	padding:0px 0px 0px 0px;
-	background:#323232;
+	background:#e5e5e5;
 	font-family:Century gothic, Arial,Tahoma,sans-serif;
 	color:#161514;
 	font-size:13px;
@@ -20,11 +20,11 @@ img {
 	margin: 0 0;
 	}
 a {
-	color:#FF0000;
+	color:#6F0000;
 	text-decoration:none
 	}
 a:hover {
-	color:#d53030;
+	color:#d5a030;
 	text-decoration:none
 		}
 h1, h2, h3, h4, h5, h6 {
@@ -34,8 +34,8 @@ blockquote {
 	padding:5px 5px;
 	color:#444;
 	font-style: normal;
-	background:#CFCFCF;	
-	border-left:8px solid #FDB101;
+	background:#1FCFCF;	
+	border-left:8px solid #FDF101;
 	}
 .clear {
 	clear:both;
@@ -52,7 +52,7 @@ img.alignnone {
 	padding: 5px 5px;
 	margin: 0px 0px 10px 0px;
 	display: inline;
-	background:#B7B7B7;
+	background:#17B7B7;
 	border: 1px solid #fff;
 	}
 
@@ -92,7 +92,7 @@ img.alignleft {
 .wp-caption {
 	border: 1px solid #fff;
 	text-align: center;
-	background-color: #B7B7B7;
+	background-color: #17B7B7;
 	padding: 4px 0px 5px 0px;
 	color:#ccc;
 	}
@@ -117,12 +117,12 @@ img.alignleft {
 #wrapper {
 	width:1000px;
 	margin:0 auto;
-	background:#d6d6d6;
+	background:#16d6d6;
 	padding-top:0px;
 	}
 #casing {
 	padding:0px 0px ;
-	background:#E4E4E4;
+	background:#14E4E4;
 	margin:0px 0px;
 	width:1000px;
 	float:left;
@@ -138,7 +138,7 @@ img.alignleft {
 #top {
 	height:125px;
 	margin:auto;
-	background:#f4f4f4 url(images/top.png);
+	background:#14f4f4 url(images/top.png);
 	width:1000px;
 
 	}
@@ -155,7 +155,7 @@ img.alignleft {
 	height:40px;
 	padding:0 0 0px 0;
 	font-weight:normal;
-	color:#cacccd;
+	color:#1acccd;
 	text-align:left;
 	margin:15px 0 0 10px;
 	text-indent:-9000px;
@@ -163,7 +163,7 @@ img.alignleft {
 	
 	}
 .blogname h1  a:link, .blogname h1  a:visited{ 
-	color: #cacccd; 
+	color: #2acccd; 
 	display:block;
 	}
 	
@@ -174,7 +174,7 @@ img.alignleft {
 	margin:10px 0px 0px 15px;
 	font-size:12px;
 	font-weight:normal;
-	color:#b6b6b6;
+	color:#16b6b6;
 	text-align:left;
 	text-transform:uppercase;
 
@@ -184,7 +184,7 @@ img.alignleft {
 #topbar {
 	height: 36px;
 	margin-bottom: 0px;
-	background:#78A1AF url(images/topbar.png) repeat-x;
+	background:#18A1AF url(images/topbar.png) repeat-x;
 	font-family:Tahoma,Century gothic, Arial,Tahoma,sans-serif;
 	padding:0px 0px;
 	width:1000px;
@@ -229,7 +229,7 @@ img.alignleft {
 }
 
 #topbar ul li a:hover {
-	color: #AFAFAF;
+	color: #1FAFAF;
 }
 
 /* The Search */
@@ -365,7 +365,7 @@ img.alignleft {
 	}
 	
 #menu li a, #menu li a:link, #menu li a:visited {
-	color: #747474;
+	color: #147474;
 	display: block;
 	margin: 0px;
 	padding: 10px 15px 9px 15px;
@@ -380,7 +380,7 @@ img.alignleft {
 	}
 	
 #menu li li a, #menu li li a:link, #menu li li a:visited {
-	background:#202020;
+	background:#102020;
 	width: 150px;
 	color: #bbb;
 	font-size: 13px;
@@ -394,7 +394,7 @@ img.alignleft {
 	}
 	
 #menu li li a:hover, #menu li li a:active {
-	background: #121212 ;
+	background: #F21212 ;
 	color: #fff;
 	padding: 8px 10px 7px 10px;
 	}
@@ -454,7 +454,7 @@ img.alignleft {
 	margin: 0px;
 	padding: 0px;
 	width:1000px;
-	background:#252525 url(images/catmenu.png) repeat-x;
+	background:#F52525 url(images/catmenu.png) repeat-x;
 	height:33px;
 	}
 	
@@ -473,7 +473,7 @@ img.alignleft {
 	}
 	
 #catmenu li a, #catmenu li a:link, #catmenu li a:visited {
-	color: #fae7df;
+	color: #1ae7df;
 	display: block;
 	margin: 0px;
 	padding: 9px 10px 10px 10px;
@@ -488,7 +488,7 @@ img.alignleft {
 	}
 	
 #catmenu li li a, #catmenu li li a:link, #catmenu li li a:visited {
-	background:#ED4A05;
+	background:#1D4A05;
 	width: 150px;
 	color: #fae7df;
 	font-family:Tahoma,century gothic,Georgia,  sans-serif;
@@ -552,7 +552,7 @@ img.alignleft {
 	overflow: hidden;
 	margin:0px 0px 5px 5px;
 	height:100%;
-	color:#504945;
+	color:#104945;
 	font: 12px Tahoma, century gothic,Arial,verdana, sans-serif;
 	background:#fff url(images/box.png) repeat-x;
 	line-height:18px;
@@ -572,7 +572,7 @@ img.alignleft {
 	}
 
 .box  h2 a, .box  h2 a:link, .box  h2 a:visited  {
-	color:#252525;
+	color:#F52525;
 	background-color: transparent;
 	}
 .box  h2 a:hover  {
@@ -592,7 +592,7 @@ img.alignleft {
 	background-color: transparent;
 }
 .sentry a:hover {
-	color:#455236;
+	color:#F55236;
 	background-color: transparent;
 	text-decoration: none;
 }
@@ -613,7 +613,7 @@ img.ethumb   {
 
 .rmore{
 	float:left;
-	color:#9F0505;
+	color:#1F0505;
 	padding:10px 0px 3px 5px;
 	margin:0px 0px 0px 5px;
 	width:68px;
@@ -812,11 +812,11 @@ img.ethumb   {
 	
 .entry a:link,
 .entry a:visited {
-	color: #AC0604;
+	color: #FC0604;
 	background-color: transparent;
 }
 .entry a:hover {
-	color:#455236;
+	color:#F55236;
 	background-color: transparent;
 	text-decoration: none;
 }
@@ -905,7 +905,7 @@ img.ethumb   {
 	}
 
 .sidebar1 ul li a:link, .sidebar1 ul li a:visited {
-	background:#42484D;
+	background:#1E15a3;
 	color:#aaa;
 	text-decoration: none;
 	padding: 5px 0px 5px 5px;
@@ -1070,12 +1070,12 @@ img.ethumb   {
 	font-family: Tahoma,georgia,Century gothic,  Arial, sans-serif;
 	float:left;
 	width:1000px;
-	background:#202020 url(images/bot.png) repeat-x; 
+	background:#F02020 url(images/bot.png) repeat-x; 
 
 	}
 
 #footer a:link , #footer a:visited{
-	color:#B7B7B7;
+	color:#17B7B7;
 	}
 
 #footer a:hover {

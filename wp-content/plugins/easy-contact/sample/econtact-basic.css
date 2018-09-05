@@ -41,7 +41,7 @@ width: 95%;
 }
 
 body div.formcontainer p.error {
-background: #fbfbee url('error.png') no-repeat 12px 50%;
+background: #1bfbee url('error.png') no-repeat 12px 50%;
 border-bottom: 2px solid #F0D28B;
 }
 
